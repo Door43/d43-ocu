@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ocu:home|Door43 (ocu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ocu|d43-ocu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ocu/archive/master.zip|d43-ocu.zip]]
+
+**Recent Changes**
+{{changes>ns = ocu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ocu|Ethnologue data]]
+
